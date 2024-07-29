@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Evgeniy-Hozyainov
-- 👀 I’m interested in in programming and design
+- 👀 I’m interested in programming and design
 - 🌱 I’m currently learning JavaScript and CSS
 
 <!---
